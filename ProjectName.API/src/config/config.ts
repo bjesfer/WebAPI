@@ -47,7 +47,7 @@ export const mongo = {
   MONGO_URL,
   MONGO_COLLECTION,
   MONGO_OPTIONS,
-  MONGO_CONNECTION: `mongodb+srv://${MONGO_USER}:${MONGO_PASSWORD}@${MONGO_URL}/${MONGO_COLLECTION}`,
+  MONGO_CONNECTION: `mongodb+srv://${MONGO_USER}:${MONGO_PASSWORD}@${MONGO_URL}`,
 };
 
 // Grouped server configuration
