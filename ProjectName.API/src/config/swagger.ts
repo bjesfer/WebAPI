@@ -25,7 +25,7 @@ const options = {
         description: "Development server",
       },
       {
-        url: "https://api.yourproduction.com", // Production server
+        url: "https://sia-project-name.onrender.com", // Production server
         description: "Production server",
       },
     ],

@@ -10,8 +10,8 @@ const userController = new UserController();
 /**
  * @swagger
  * tags:
- *   name: Japz
- *   description: Japz management endpoints
+ *   name: User
+ *   description: User endpoints
  */
 
 /**
