@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 import swaggerUi from "swagger-ui-express";
 
 import "./config/logging";
-import { mongo, server } from "./config/config";
+import { DEVELOPMENT, mongo, server } from "./config/config";
 import routes from "./routes/routes";
 
 import "reflect-metadata";
