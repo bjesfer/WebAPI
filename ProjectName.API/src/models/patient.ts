@@ -14,7 +14,7 @@ export const patientSchema = new Schema(
     street2: { type: String, length: 50 }, // Secondary street address (apt, unit, etc.)
     city: { type: String, length: 50 }, // City name
     state: { type: String, length: 50 }, // State/Province
-    postalCode: { type: String, length: 50 }, // ZIP/Postal code
+    postalCode: { type: String, length: 50 }, // ZIP/Postal code fdsfs
 
     // Additional patient details
     dateOfBirth: { type: Date }, // Patient's birth date
